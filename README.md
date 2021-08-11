@@ -1,8 +1,7 @@
 # Capstone Project
 
-## Sad Boiz (Shubham Kumar Singh and Naksatra Bailung)
-
-## 18-06-2020
+ Sad Boiz (Subham Kumar Singh and Naksatra Bailung)
+ 18-06-2020
 
 
 ## 1 Game Idea
@@ -28,13 +27,15 @@ a better approach.
 Many of ideas we had were scraped since most of them required either scripting
 and sometimes the SparkAR studio would not be able to handle multiple inputs.
 
-```
-Figure 1: Game Logic Idea
-```
+![](image/logic.png)
 
-```
+Figure 1: Game Logic Idea
+
+
+![](image/logic2.png)
+
 Figure 2: First Ideas we came up with
-```
+
 ## 3 Alpha Stages
 
 We tested for a balls collision in the alpha stages which we got pretty good
@@ -55,14 +56,14 @@ tester we had handed over to.
 - Uploading High Scores: We needed to have a backend to obtain scores.
     It can be achieved with a simple free server with NodeJS but we decided
 
+![](image/alpha.png)
 
-```
 Figure 3: Alpha Stage with a Ball
-```
-```
+
+
 to skip on it due to time constraints. This might also invade the users
 privacy even further.
-```
+
 - Jump animation: We decided to skip it since the frame rate would drop
     even further and the gameplay mechanics were set already.
 
@@ -124,16 +125,17 @@ Animation:
 
 Script is used Mainly for start screen and score update.
 
-```
+![](image/script.png)
+
 Figure 4: Script
-```
+
 ### 4.3 Assests
 
 We Designed Customed model for this effect.
 
-```
+
 4.3.1 3d Models
-```
+
 - Camel : The camel was imported using cgtrader
 - Cactus : A handmade model using blender
 - Football : A handmade football and a picture
@@ -142,18 +144,20 @@ We Designed Customed model for this effect.
 - Naser and Vineeth : We used the models provided to us in our starter kit.
 
 
-```
+
 4.3.2 Audio Files
-```
+
 - Starting music: It was made from the last part of the ”Smoke Shisha Play
     Fifa” song.
 
-```
+![](image/ch1.png)
+
 Figure 5: Cutomed Designed camel with characters
-```
-```
+
+![](image/ch2.png)
+
 Figure 6: Cutomed Designed Cactus
-```
+
 ## 5 Reactions and Future
 
 ### 5.1 What the user feels?
@@ -169,9 +173,10 @@ testers recommended we increase the play screen area so that they could relate
 with their nose as the character’s position which we did implement on the final
 product.
 
-```
+![](image/user.png)
+
 Figure 7: A proud user
-```
+
 ## 6 What we look towards for this in the future?
 
 We would like to implement all of the ideas we had left. In addition to that we
