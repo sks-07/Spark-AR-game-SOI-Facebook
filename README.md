@@ -1,6 +1,6 @@
 # Capstone Project
 
- Sad Boiz (Subham Kumar Singh and Naksatra Bailung)
+ Team Sad Boiz (Subham Kumar Singh and Naksatra Bailung)
  18-06-2020
 
 
